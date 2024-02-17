@@ -27,6 +27,8 @@ im on fire 正酣\
 akward 尴尬\
 my pleasure 不客气\
 i will appreciate 会高兴/感激\
+it doesnt matter\
+it is a big deal \
 
 # tech daily record
 日期|内容|进度
